@@ -1,0 +1,24 @@
+WHAT-IF / SENSITIVITY ANALYSIS
+============================================================
+Baseline: ranks 43/9/6  satisfaction 81.9%
+
+SCENARIO A — Quota change
+------------------------------------------------------------
+Most oversubscribed: “Project 5” (8 applicants, 2 seats).
+  +1 seat(s): ranks 42/12/4  satisfaction 82.8%  (Δ +0.9)
+  +2 seat(s): ranks 42/12/4  satisfaction 82.8%  (Δ +0.9)
+  +3 seat(s): ranks 42/12/4  satisfaction 82.8%  (Δ +0.9)
+  Interpretation: extra seats on the top bottleneck convert rank-2/3 students to better ranks until demand is met.
+
+SCENARIO B — Fixed assignment (admin override)
+------------------------------------------------------------
+Force Student 1 onto their 1st choice “Project 38”.
+  Result: ranks 39/14/5  satisfaction 79.3%  (Δ -2.6)
+  Interpretation: the override helps one student but can displace others competing for the same project.
+
+SCENARIO C — Preference change
+------------------------------------------------------------
+Student 2 drops their 1st choice.
+  Their new assignment rank: 1
+  Global: ranks 44/10/4  satisfaction 84.5%  (Δ +2.6)
+  Interpretation: dropping a popular first choice usually costs the individual a rank but frees a seat for others.

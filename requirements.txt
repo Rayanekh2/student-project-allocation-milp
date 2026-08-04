@@ -1,0 +1,5 @@
+pulp>=2.7
+pandas>=2.0
+openpyxl>=3.1
+odfpy>=1.4
+matplotlib>=3.7

@@ -1,0 +1,188 @@
+STUDENT–PROJECT ALLOCATION — EXPLANATION REPORT
+============================================================
+
+ALLOCATION-LEVEL BINDING CONSTRAINTS
+------------------------------------------------------------
+  Worst rank enforced (z) : 3
+  Projects opened          : 35
+  Projects at full capacity: 21 (these directly block lower-ranked demand)
+  Projects force-closed    : 0 (fewer applicants than the minimum team size)
+  Partner groups satisfied : 8/9
+
+
+PER-STUDENT EXPLANATIONS
+------------------------------------------------------------
+
+[1] Student 10  →  Project 43
+     Received their 1st choice.
+
+[1] Student 11  →  Project 56
+     Received their 1st choice.
+
+[1] Student 12  →  Project 50
+     Received their 1st choice.
+
+[1] Student 13  →  Project 7
+     Received their 1st choice.
+
+[1] Student 14  →  Project 13
+     Received their 1st choice.
+
+[1] Student 16  →  Project 7
+     Received their 1st choice.
+
+[1] Student 17  →  Project 54
+     Received their 1st choice.
+
+[1] Student 18  →  Project 37
+     Received their 1st choice.
+
+[1] Student 2  →  Project 52
+     Received their 1st choice.
+
+[1] Student 21  →  Project 9
+     Received their 1st choice.
+
+[1] Student 23  →  Project 38
+     Received their 1st choice.
+
+[1] Student 24  →  Project 73
+     Received their 1st choice.
+
+[1] Student 25  →  Project 39
+     Received their 1st choice.
+
+[1] Student 26  →  Project 62
+     Received their 1st choice.
+
+[1] Student 27  →  Project 77
+     Received their 1st choice.
+
+[1] Student 28  →  Project 66
+     Received their 1st choice.
+
+[1] Student 30  →  Project 78
+     Received their 1st choice.
+
+[1] Student 31  →  Project 57
+     Received their 1st choice.
+
+[1] Student 32  →  Project 59
+     Received their 1st choice.
+
+[1] Student 33  →  Project 9
+     Received their 1st choice.
+
+[1] Student 34  →  Project 69
+     Received their 1st choice.
+
+[1] Student 36  →  Project 5
+     Received their 1st choice.
+
+[1] Student 37  →  Project 52
+     Received their 1st choice.
+
+[1] Student 38  →  Project 28
+     Received their 1st choice.
+
+[1] Student 39  →  Project 38
+     Received their 1st choice.
+
+[1] Student 4  →  Project 33
+     Received their 1st choice.
+
+[1] Student 40  →  Project 49
+     Received their 1st choice.
+
+[1] Student 42  →  Project 45
+     Received their 1st choice.
+
+[1] Student 45  →  Project 56
+     Received their 1st choice.
+
+[1] Student 46  →  Project 7
+     Received their 1st choice.
+
+[1] Student 47  →  Project 11
+     Received their 1st choice.
+
+[1] Student 49  →  Project 5
+     Received their 1st choice.
+
+[1] Student 50  →  Project 33
+     Received their 1st choice.
+
+[1] Student 51  →  Project 37
+     Received their 1st choice.
+
+[1] Student 52  →  Project 50
+     Received their 1st choice.
+
+[1] Student 53  →  Project 32
+     Received their 1st choice.
+
+[1] Student 54  →  Project 49
+     Received their 1st choice.
+
+[1] Student 55  →  Project 18
+     Received their 1st choice.
+
+[1] Student 57  →  Project 70
+     Received their 1st choice.
+
+[1] Student 58  →  Project 39
+     Received their 1st choice.
+
+[1] Student 7  →  Project 12
+     Received their 1st choice.
+
+[1] Student 8  →  Project 4
+     Received their 1st choice.
+
+[1] Student 9  →  Project 38
+     Received their 1st choice.
+
+[2] Student 19  →  Project 28
+     Received their choice #2. Higher choices missed: “Project 49” was full (2 place(s), all taken).
+
+[2] Student 20  →  Project 2
+     Received their choice #2. Higher choices missed: “Project 52” was full (2 place(s), all taken).
+
+[2] Student 29  →  Project 20
+     Received their choice #2. Higher choices missed: “Project 56” was full (2 place(s), all taken). Placement is coupled with partner(s) Student 44, which restricts the options to projects all partners ranked.
+
+[2] Student 3  →  Project 59
+     Received their choice #2. Higher choices missed: “Project 52” was full (2 place(s), all taken).
+
+[2] Student 35  →  Project 62
+     Received their choice #2. Higher choices missed: “Project 66” was full (1 place(s), all taken).
+
+[2] Student 41  →  Project 15
+     Received their choice #2. Higher choices missed: “Project 7” was full (3 place(s), all taken). Placement is coupled with partner(s) Student 43, which restricts the options to projects all partners ranked.
+
+[2] Student 43  →  Project 15
+     Received their choice #2. Higher choices missed: “Project 7” was full (3 place(s), all taken). Placement is coupled with partner(s) Student 41, which restricts the options to projects all partners ranked.
+
+[2] Student 44  →  Project 20
+     Received their choice #2. Higher choices missed: “Project 56” was full (2 place(s), all taken). Placement is coupled with partner(s) Student 29, which restricts the options to projects all partners ranked.
+
+[2] Student 48  →  Project 77
+     Received their choice #2. Higher choices missed: “Project 42” was full (1 place(s), all taken).
+
+[3] Student 1  →  Project 13
+     Received their choice #3. Higher choices missed: “Project 38” was full (3 place(s), all taken); “Project 5” was full (2 place(s), all taken).
+
+[3] Student 15  →  Project 78
+     Received their choice #3. Higher choices missed: “Project 66” was full (1 place(s), all taken); “Project 62” was full (2 place(s), all taken).
+
+[3] Student 22  →  Project 2
+     Received their choice #3. Higher choices missed: “Project 52” was full (2 place(s), all taken); “Project 59” was full (2 place(s), all taken).
+
+[3] Student 5  →  Project 67
+     Received their choice #3. Higher choices missed: “Project 52” was full (2 place(s), all taken); “Project 49” was full (2 place(s), all taken).
+
+[3] Student 56  →  Project 70
+     Received their choice #3. Higher choices missed: “Project 9” was full (2 place(s), all taken); “Project 46” could not open (needed at least 1, too few applicants). Placement is coupled with partner(s) Student 57, which restricts the options to projects all partners ranked.
+
+[3] Student 6  →  Project 42
+     Received their choice #3. Higher choices missed: “Project 66” was full (1 place(s), all taken); “Project 69” was full (1 place(s), all taken).
